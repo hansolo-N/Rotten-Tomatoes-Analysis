@@ -82,5 +82,6 @@ These findings underscore the importance of considering both audience and critic
 Future analyses could delve deeper into specific factors influencing these ratings, such as the impact of marketing, social media influence, or the role of genre and franchise popularity in shaping audience and critic perceptions.
 
 ## PowerBi
-- further visualizations were presented on PowerBi
+further visualizations were presented on PowerBi.
+![PowerBi visuals.](RT_PowerBiVisuals.pdf)
 
