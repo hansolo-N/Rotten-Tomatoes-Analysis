@@ -34,7 +34,8 @@ In this analysis, we explore the relationship between audience and critic scores
 > - distributor - the primary distributor of the movie (string)              
 > - soundMix - the mixer of the movie, if there was any (string) 
 
-The dataset can be found on Kaggle : https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews?select=rotten_tomatoes_movies.csv
+The dataset can be found on Kaggle : 
+https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews?select=rotten_tomatoes_movies.csv
 
 ## Data Cleaning and Preprocessing
   
