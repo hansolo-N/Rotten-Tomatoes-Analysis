@@ -84,5 +84,5 @@ Future analyses could delve deeper into specific factors influencing these ratin
 
 ## PowerBi
 further visualizations were presented on PowerBi.
-![PowerBi visuals.](RT_PowerBiVisuals.pdf)
+[PowerBi visuals.](RT_PowerBiVisuals.pdf)
 
