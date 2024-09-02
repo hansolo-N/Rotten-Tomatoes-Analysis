@@ -40,13 +40,13 @@ The dataset can be found on Kaggle : https://www.kaggle.com/datasets/andrezaza/c
   
 - releaseDateTheaters and releaseDateStreaming Features were converted to appropriate datetime types
 - created year columns for both streaming and cinema movies
-- replaced null values in title Feature with string indicating no title
-- For the audienceScore Feature missing values were replaced with the mean audienceScore
-- For the TomatoMeter Feature missing values were replaced with the mean TomatoMeter
+- replaced null values in title Feature with string value indicating no title
+- For the audienceScore Feature missing values were replaced with the mean audienceScore and then rounded
+- For the TomatoMeter Feature missing values were replaced with the mean TomatoMeter and then rounded
 - replaced empty rating values with the most common maturity rating (PG-13)
-- replaced empty rating contents with string indicating no rating contents
+- replaced empty rating contents with string value indicating no rating contents
 - for runtimeMinutes, replaced null values with mean runtimeMinutes
-- for these fields replaced with string for null values:
+- these fields were replaced with string values for null values:
   - genre
   - originalLanguage
   - director
